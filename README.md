@@ -1,6 +1,9 @@
 #Crypton
-PBKDF2 implementation in pyton. Original package is [here](http://pypi.python.org/pypi/pbkdf2)
+PBKDF2 implementation in pyton. 
 
+Original package is [here](http://pypi.python.org/pypi/pbkdf2).
+
+The idea to create this rep. came from [this article](http://www.unlimitednovelty.com/2012/03/dont-use-bcrypt.html)
 ##Usage
 
 	from pbkdf2 import crypt

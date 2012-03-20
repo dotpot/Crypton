@@ -14,9 +14,5 @@ def main():
     else:
         print "Invalid password"
 
-    a = ''
-
-    print a
-
 if __name__ == "__main__":
     main()
